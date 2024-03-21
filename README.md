@@ -20,8 +20,8 @@ I'm Filimon, a passionate software developer based in [Your Location].
 
 ## Favorite Projects
 
-1. **Inventory Management System for G.W.P.T.C:**
-    [Project Link](https://github.com/filimonkd/Basecamp-Project---Carbon-Footprint-Calculator)
+1. **Inventory Management System for G.W.P.T.C:**<br>
+    [Project Link](https://github.com/filimonkd/Basecamp-Project---Carbon-Footprint-Calculator) <br>
    Developed an efficient and user-friendly inventory management system tailored to the specific needs of G.W.P.T.C. This system enables seamless tracking of inventory levels, ordering, and restocking processes, streamlining operations and ensuring optimal inventory management.
 
 2. **E-commerce Product Page Solution | Telegram-bot-revolution:**
