@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Filimon, a passionate software developer based in [Your Location]. 
+I'm Filimon, a passionate software developer based in Ethiopia. 
 
 ## About Me
 - 💻 Full Stack Developer | Junior Cloud Practitioner
