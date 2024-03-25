@@ -15,10 +15,10 @@
 <a href="https://linkedin.com/in/filimonkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filimonkifle" height="30" width="40" /></a>
 </p>
 
-<p align="left">
+<p>
 <a href="https://filimonportfolio.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/52293/portfolio.svg" alt="filimonkifle" height="30" width="40" /></a>
 </p>
-<p align="left">
+<p >
 <a href="https://twitter.com/filimonkd" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="filimonkifle" height="30" width="40" /></a>
 </p>
 
