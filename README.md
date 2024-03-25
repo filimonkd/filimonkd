@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filimon</h1>
 
-<h3 align="center" style="font-family: Arial, sans-serif; color: #333; font-size: 18px; line-height: 1.5em;">
+<h3  style="font-family: Arial, sans-serif; color: #333; font-size: 18px; line-height: 1.5em;">
     A skilled Software Engineer, Full Stack Web Developer, and Cloud DevOps Engineer <br />
     with a passion for all things tech. <br />
     With extensive experience in these fields, I am committed to delivering cutting-edge solutions that drive business success and enhance user experiences.
