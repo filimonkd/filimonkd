@@ -15,7 +15,6 @@
 - 🎨 When I'm not coding, you can find me hiking, exploring new cafes, or experimenting with photography.
 
 ## Connect with Me
-### Connect with me:
 
 <div style="display: inline-block;">
     <a href="https://linkedin.com/in/filimonkd" target="_blank">
