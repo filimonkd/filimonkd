@@ -10,17 +10,21 @@
 - 🎨 When I'm not coding, you can find me hiking, exploring new cafes, or experimenting with photography.
 
 ## Connect with Me
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/filimonkd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filimonkifle" height="30" width="40" /></a>
-</p>
+### Connect with me:
 
-<p>
-<a href="https://filimonportfolio.netlify.app/" target="blank"><img align="center" src="https://www.svgrepo.com/show/52293/portfolio.svg" alt="filimonkifle" height="30" width="40" /></a>
-</p>
-<p >
-<a href="https://twitter.com/filimonkd" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="filimonkifle" height="30" width="40" /></a>
-</p>
+<div style="display: inline-block;">
+    <a href="https://linkedin.com/in/filimonkd" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filimonkifle" height="30" width="40" />
+    </a>
+
+    <a href="https://filimonportfolio.netlify.app/" target="_blank">
+        <img align="center" src="https://www.svgrepo.com/show/52293/portfolio.svg" alt="filimonkifle" height="30" width="40" />
+    </a>
+
+    <a href="https://twitter.com/filimonkd" target="_blank">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="filimonkifle" height="30" width="40" />
+    </a>
+</div>
 
 ## Favorite Projects
 
