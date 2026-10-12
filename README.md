@@ -1,56 +1,78 @@
-<h1 align="center">Hi 👋, I'm Filimon</h1>
+<h1 align="center">Hi, I'm Filimon 👋</h1>
 
-<h3  style="font-family: Arial, sans-serif; color: #333; font-size: 18px; line-height: 1.5em;">
-    A skilled Software Engineer, Full Stack Web Developer, and Cloud DevOps Engineer 
-    with a passion for all things tech. 
-    With extensive experience in these fields, I am committed to delivering cutting-edge solutions that drive business success and enhance user experiences.
-</h3>
+<p align="center">Full-stack developer · TypeScript, Node.js &amp; React · Telegram Mini Apps and bots</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=filimonkd&label=Profile%20views&color=0e75b6&style=flat" alt="filimonkd" /> </p>
+I build full-stack web apps and Telegram products: real-time multiplayer games, auction and event-registration platforms, and admin systems that keep an audit trail. Most of it is TypeScript or JavaScript on Node.js and React, backed by MongoDB or PostgreSQL, with CI on every pull request and docs written alongside the code.
 
-## About Me
-- 💻 Full Stack Developer | Junior Cloud Practitioner
-- 🌱 Currently exploring the fascinating world of artificial intelligence and machine learning.
-- 📚 Always eager to learn and grow, I'm constantly expanding my knowledge through hands-on projects and continuous education.
-- 🎨 When I'm not coding, you can find me hiking, exploring new cafes, or experimenting with photography.
+**Right now:** running the closed beta of [RivalRush](https://github.com/filimonkd/rivalrush) and building the auction engine behind [HOWLOW](https://github.com/filimonkd/howlow).
 
-## Connect with Me
+Away from the keyboard: hiking, new cafés and photography.
 
-<div style="display: inline-block;">
-    <a href="https://linkedin.com/in/filimonkd" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filimonkifle" height="30" width="40" />
-    </a>
-    <a href="https://filimonportfolio.netlify.app/" target="_blank">
-        <img align="center" src="https://www.svgrepo.com/show/52293/portfolio.svg" alt="filimonkifle" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/filimonkd" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="filimonkifle" height="30" width="40" />
-    </a>
-</div>
+## 🚀 Featured work
 
-## Favorite Projects
+### 🎮 Games and auctions on Telegram
 
-1. **Eco Impact Africa (EIA) - Carbon Footprint Calculator:**  
-   [Project Link](https://github.com/filimonkd/Basecamp-Project---Carbon-Footprint-Calculator)  
+**[RivalRush](https://github.com/filimonkd/rivalrush)** — Quick 1-vs-1 multiplayer games you start from a Telegram chat: invite a friend, play a deduction duel, no signup or install.  
+`TypeScript` `React` `Socket.IO` `Express` `MongoDB` `Telegram Mini App` · [▶ Play on Telegram](https://t.me/rivalrushbot) (closed beta)
 
-   Created a comprehensive carbon footprint calculator as part of the Eco Impact Africa initiative. This calculator allows users to quantify their carbon emissions across various activities and lifestyle choices, raising awareness about environmental impact and promoting sustainability efforts in the region.
+**[HOWLOW](https://github.com/filimonkd/howlow)** — A lowest-unique-bid auction platform where the website and the Telegram bot share one backend, one wallet ledger and one user identity, so both channels always play by the same rules. *In development.*  
+`TypeScript` `Express` `React` `PostgreSQL` `Redis` `BullMQ` `grammY`
 
-2. **E-commerce Product Page Solution | Telegram-bot-revolution:**  
-   [Project Link](https://github.com/filimonkd/sneakers-e-commerce-telegram-bot-website)  
+### 🗂️ Workflow and operations
 
-   Designed and implemented an innovative solution for e-commerce product pages, leveraging the power of Telegram bot integration. This solution enables users to browse and purchase products directly from Telegram, enhancing the shopping experience with convenient and secure transactions.
+**[T-CAMS](https://github.com/filimonkd/T-CAMS)** — Runs registrar, library, department, budget and HR approvals through one guarded workflow, so every status change is rule-checked and written to an immutable audit log.  
+`JavaScript` `Express` `MongoDB` `React` `Tailwind CSS`
 
-3. **Inventory Management System for G.W.P.T.C:**  
-   [Project Link](https://github.com/filimonkd/inventory-management-system)  
+**[WaveCheck](https://github.com/filimonkd/WaveCheck)** — Event and conference registration with an organiser dashboard, built so QR and RFID check-in kiosks can plug in next.  
+`TypeScript` `Next.js` `PostgreSQL` `Prisma` `Auth.js` `shadcn/ui`
 
-   Developed an efficient and user-friendly inventory management system tailored to the specific needs of G.W.P.T.C. This system enables seamless tracking of inventory levels, ordering, and restocking processes, streamlining operations and ensuring optimal inventory management.
+### ⚽ Fantasy Premier League
 
+**[FPL Radar](https://github.com/filimonkd/FPL-Radar)** — Settles a Fantasy Premier League mini-league week by week from official FPL data, with rival scouting, a transfer simulator and a Wildcard / Free Hit planner on top.  
+`JavaScript` `Express` `MongoDB` `React` `TanStack Query`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**[FPL War Room](https://github.com/filimonkd/fpl-war-room)** — A lightweight Streamlit dashboard for mini-league commissioners: leaderboards, opponent squad comparisons, expected points and WhatsApp-ready gameweek summaries.  
+`Python` `Streamlit` `pandas`
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonkd&show_icons=true&locale=en&layout=compact" alt="filimonkd" /></p>
+## 📁 Earlier projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filimonkd&show_icons=true&locale=en" alt="filimonkd" /></p>
+**[Carbon Footprint Calculator — Eco Impact Africa](https://github.com/filimonkd/Basecamp-Project---Carbon-Footprint-Calculator)** — A team project for Eco Impact Africa that lets people log their transport and electricity use and see the carbon emissions it adds up to.  
+`C#` `ASP.NET` `Bootstrap`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filimonkd&" alt="filimonkd" /></p>
+**[Sneakers store on Telegram](https://github.com/filimonkd/sneakers-e-commerce-telegram-bot-website)** — An early Telegram Web App: a Telegraf bot that opens a responsive product page with a gallery and a cart right inside the chat.  
+`Vue 3` `Vite` `Tailwind CSS` `Telegraf`
+
+**[Inventory Management System for G.W.P.T.C](https://github.com/filimonkd/inventory-management-system)** — Keeps track of G.W.P.T.C's stock items through a React dashboard on top of an Express and MongoDB API.  
+`JavaScript` `React` `Express` `MongoDB`
+
+## 🛠️ Tech stack
+
+**Languages**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+**Backend and real-time**  
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
+
+**Data**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Tooling and delivery**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+Also in the toolbox: Vite, Mongoose, Prisma, Zod, BullMQ, Streamlit, Vitest and Playwright, deployed on Vercel, Render and MongoDB Atlas. Earlier projects also used Vue 3 and C# / ASP.NET.
+
+## 🤝 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/filimonkd) · [Portfolio](https://filimonportfolio.netlify.app) · [X (@filimonkd)](https://x.com/filimonkd)
